@@ -1,2 +1,3 @@
 # hello-world
-First GitHub project
+First GitHub project. Hello My name is Francis Yep
+I'm learning GitHub
